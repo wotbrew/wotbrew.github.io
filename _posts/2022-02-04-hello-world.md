@@ -5,9 +5,10 @@ layout: post
 
 Hello, world!
 
-```clojure
+
+{% highlight clojure %}
 
 (dotimes [x 100]
  (post))
 
-```
+{% endhighlight %}
